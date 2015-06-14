@@ -1,0 +1,39 @@
+body {
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  color: #000;
+  font-family: 'Muli', sans-serif;
+  padding-top: 20px;
+  text-align: center;
+}
+a:link, a:visited, a:hover, a:focus {
+  color: #129AA0;
+  text-decoration: none;
+}
+.content {
+  background: #fff;
+  margin: 0px auto;
+  opacity: 0.7;
+  padding: 20px;
+  width: 400px;
+}
+#message {
+  font-size: 25px;
+}
+#display {
+  font-size: 40px;
+  font-weight: bold;
+}
+#motivation {
+  font-size: 20px;
+  margin-top: 30px;
+}
+#show-form {
+  margin-top: 15px;
+}
+#set-time {
+  display: none;
+  font-size: 16px;
+}
